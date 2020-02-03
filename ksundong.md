@@ -1,3 +1,3 @@
 # 오늘의 격언
 
-hell
+git is funny
